@@ -1,0 +1,38 @@
+.skill{
+    color: rgb(179, 164, 164);
+}
+.contact:hover{
+color:red;
+font-size: large;
+}
+.prj:hover{
+    color:red;
+    font-size: large; 
+}
+.add:hover{
+    color:red;
+    font-size: large;   
+}
+.form:hover{
+    color:red;
+    font-size: large;
+}
+body{
+    background-color:" #f8f8f8";
+}
+img{
+    border-radius:  100%;
+}
+hr{
+    
+    background-color: black;
+    height: 5px;
+}
+.SKHR{
+ background-color: blanchedalmond;
+ height: 1PX;
+}
+#PROFILE{
+    color:black;
+    height: 20PX;
+}
